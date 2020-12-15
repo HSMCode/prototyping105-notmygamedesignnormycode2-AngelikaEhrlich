@@ -8757,6 +8757,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dayTime: {fileID: 423034720}
   nightTime: {fileID: 2101517307}
+  IsRunning: 1
+  NumberofSeconds: 3
 --- !u!4 &1968917685
 Transform:
   m_ObjectHideFlags: 0
